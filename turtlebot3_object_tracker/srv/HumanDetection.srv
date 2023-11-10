@@ -1,0 +1,6 @@
+#srv파일 내용
+bool detected
+float32 confidence
+---
+
+
